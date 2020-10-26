@@ -1,0 +1,2 @@
+# LabyrinthProject
+Labyrinth game
